@@ -1,0 +1,7 @@
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\bin\Debug\musicAnalyzer.exe.config
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\bin\Debug\musicAnalyzer.exe
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\bin\Debug\musicAnalyzer.pdb
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\obj\Debug\musicAnalyzer.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\obj\Debug\musicAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\obj\Debug\musicAnalyzer.exe
+C:\Users\Joe\Desktop\C# 2040\C#\MuicPlaylistAnalyzer\musicAnalyzer\musicAnalyzer\obj\Debug\musicAnalyzer.pdb
